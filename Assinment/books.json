@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Hello",
+        "author": "afzal",
+        "isbn": "12a",
+        "genre": "2",
+        "price": 12.0,
+        "quantity": 10
+    }
+]
